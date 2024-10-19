@@ -1,39 +1,56 @@
-# Tic-Tac-Toe Game
+# 🎮 TicTacToe Game
 
-This is a simple Tic-Tac-Toe game implemented in Java Swing.
+A classic **Tic-Tac-Toe** game built with **Java Swing**, providing a fun and simple way to play the timeless game with a clean graphical interface.
 
-## Description
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-Framework-orange?style=flat)
 
-This program allows two players to play the classic Tic-Tac-Toe game on a graphical interface. The game detects wins based on three consecutive marks in a row, column, or diagonal. If all squares are filled and no player has three marks in a row, the game ends in a tie.
+<img src="https://github.com/DikshitaDas/TicTacToe/blob/main/game%20board/Screenshot%202024-10-19%20124544.png" width="800">
+<img src="https://github.com/DikshitaDas/TicTacToe/blob/main/game%20board/Screenshot%202024-10-19%20124616.png" width="800">
 
-## Features
+## ℹ️ About
 
-- Graphical user interface using Java Swing.
-- Responsive design with clear text prompts.
-- Highlights the winning combination of marks.
-- Indicates ties when all squares are filled.
+A **Tic-Tac-Toe** game built using **Java Swing**, allowing two players to compete in this classic game, taking turns to place 'X' or 'O' on the board.
 
-## How to Play
+## 🚀 Features
 
-1. Launch the game.
-2. Enter player names.
-3. Players take turns clicking on the 3x3 grid to place their mark ('X' or 'O').
-4. The game automatically detects and displays the winner or declares a tie when appropriate.
-5. Click "Restart" to reset the game board and play again.
+- ✖️ **Two-player gameplay**: Play as 'X' or 'O' with a friend.
+- 🎨 **Graphical User Interface (GUI)**: Clean and interactive design using **Java Swing**.
+- 🧠 **Win-checking logic**: Automatically detects when a player wins or if the game results in a draw.
+- 🔄 **Restart option**: Reset the game board for a new match.
 
+## 📦 Installation
 
-## Installation
-
-Clone the repository and run it in your Java IDE.
-
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/DikshitaDas/TicTacToe.git
+cd TicTacToe
 ```
 
-## Contributing
+### 2. Compile and Run the Game
+```bash
+javac TicTacToe.java
+java TicTacToe
+```
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## 🛠 Technologies Used
 
-## License
+| Technology  | Logo |
+|-------------|------|
+| **Java**    | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) |
+| **Swing**   | ![Swing](https://img.shields.io/badge/Swing-Framework-orange?style=flat) |
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## 🤝 Contributing
+
+Contributions are welcome! Here's how you can contribute:
+
+1. Fork the repository 🍴
+2. Create a new branch (`git checkout -b feature/amazing-feature`) 🚧
+3. Commit your changes (`git commit -m 'Add a new feature'`) 📝
+4. Push to the branch (`git push origin feature/amazing-feature`) 📤
+5. Open a pull request 📬
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details. 📃
+
