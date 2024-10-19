@@ -7,6 +7,7 @@ A classic **Tic-Tac-Toe** game built with **Java Swing**, providing a fun and si
 
 <img src="https://github.com/DikshitaDas/TicTacToe/blob/main/game%20board/Screenshot%202024-10-19%20124544.png" width="800">
 <img src="https://github.com/DikshitaDas/TicTacToe/blob/main/game%20board/Screenshot%202024-10-19%20124616.png" width="800">
+<img src="https://github.com/DikshitaDas/TicTacToe/blob/main/game%20board/Screenshot%202024-10-19%20125734.png" width="800">
 
 ## ℹ️ About
 
